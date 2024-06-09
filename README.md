@@ -9,7 +9,7 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=35&duration=4000&pause=300&color=1A9FF7&center=true&vCenter=true&random=false&width=435&lines=Hi+There!%F0%9F%91%8B%F0%9F%8F%BB;I+am+Pratham+Asrani!%F0%9F%92%BB" alt="Typing SVG" /></a>
 
 </h1>
-<h2 align="center">I am Software Developer & Web Developer🦖</h2>
+<h2 align="center">I am a Software Developer & Web Developer🦖</h2>
 
 
 <div align="center">
