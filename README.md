@@ -56,3 +56,4 @@
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PrathamAsrani&theme=dracula" alt="Profile Details">
 </a><br/>
 
+![Snake animation](https://github.com/PrathamAsrani/PrathamAsrani/blob/output/github-contribution-grid-snake.svg)
