@@ -49,6 +49,7 @@
 <div align=center>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PrathamAsrani&layout=compact&theme=transparent&hide=php)
+<br />
 <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com/?user=PrathamAsrani&theme=dark" alt="GitHub Streak" /></a>  
 
 ## GitHub Profile Summary Card
