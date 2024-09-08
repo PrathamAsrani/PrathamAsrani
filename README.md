@@ -36,10 +36,10 @@
 
 <br>
   <h1 align="center">Technologies and Frameworks</h1>
-
+  
 <p align="center">
       <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cpp,java,python,js,html,css,git,github,react,vite,svelte,mysql,postgres,mongodb&perline=8" />
+    <img src="https://skillicons.dev/icons?i=cpp,java,python,js,html,css,git,github,react,vite,svelte,mysql,postgres,mongodb,aws,docker&perline=8" />
   </a>
 </p>
 
