@@ -70,29 +70,3 @@
   <br/><br/><br/>
 </div>
 
-
-
-<h2 align="center">⚡ Stats ⚡</h2>
-<br>
-<div align=center>
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PrathamAsrani&layout=compact&theme=transparent&hide=php)
-<br />
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com/?user=PrathamAsrani&theme=dark" alt="GitHub Streak" /></a>  
-
-## GitHub Profile Summary Card
-<a href="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PrathamAsrani&theme=dracula">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PrathamAsrani&theme=dracula" alt="Profile Details">
-</a><br/>
-
-## GitHub Contribution Summary
-![](./profile-3d-contrib/profile-night-rainbow.svg)
-
-<div align="center">
-  <h2>🐍 My Contributions 🐍</h2>
-  <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/mahesh-bora/mahesh-bora/output/github-contribution-grid-snake-dark.svg" />
-  
-  <br/><br/><br/>
-</div>
-
